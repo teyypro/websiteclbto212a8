@@ -60,9 +60,9 @@
     <p>🏫 30 chi đoàn trường THPT Nguyễn Trân, mỗi chi đoàn tham gia ít nhất 1 sản phẩm, nhiều nhất 2 sản phẩm.</p>
   
     <div class="image-container">
-        <img src="images/media/hd2_1.jpg" alt = '' class="event-image">
-        <img src="images/media/hd2_2.jpg" alt = '' class="event-image">
-        <img src="images/media/hd2_3.jpg" alt = '' class="event-image">
+        <img src="/websiteclbto212a8/images/media/hd2_1.jpg" alt = '' class="event-image">
+        <img src="/websiteclbto212a8/images/media/hd2_2.jpg" alt = '' class="event-image">
+        <img src="/websiteclbto212a8/images/media/hd2_3.jpg" alt = '' class="event-image">
     </div>
     
     <p class="highlight">🖌️ Yêu cầu sản phẩm:</p>

@@ -56,7 +56,7 @@
     <p>🎊 Vào ngày 15/09/2024, sự kiện vui chơi Trung Thu tại trường sẽ mang đến nhiều hoạt động hấp dẫn.</p>
     
     <div class="image-container">
-        <img src="images/sbcrew/hd3_1.jpg" alt="Sự kiện Trung Thu" class="event-image">
+        <img src="/websiteclbto212a8/images/sbcrew/hd3_1.jpg" alt="Sự kiện Trung Thu" class="event-image">
     </div>
     
     <p class="highlight">🎭 Các hoạt động nổi bật:</p>

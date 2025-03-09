@@ -56,7 +56,7 @@
     <p>🎶 Thầy cô - những người lái đò tận tụy - đã âm thầm dìu dắt bao thế hệ học trò đến bến bờ tri thức.</p>
     
     <!-- <div class="image-container">
-        <img src="images/sbcrew/teacherday.jpg" alt="Tri ân thầy cô" class="event-image">
+        <img src="/websiteclbto212a8/images/sbcrew/teacherday.jpg" alt="Tri ân thầy cô" class="event-image">
     </div> -->
     
     <p class="highlight">🎵 Bài hát: "Người gieo mầm xanh"</p>

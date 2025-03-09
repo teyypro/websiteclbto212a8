@@ -56,7 +56,7 @@
     <p>🎶 Những bước chân nhẹ nhàng, từng động tác uyển chuyển không chỉ là nghệ thuật, mà còn là lời tri ân sâu sắc gửi đến thầy cô kính yêu.</p>
     
     <div class="image-container">
-        <img src="images/sbcrew/hd2_1.jpg" alt="" class="event-image">
+        <img src="/websiteclbto212a8/images/sbcrew/hd2_1.jpg" alt="" class="event-image">
 
     </div>
     
