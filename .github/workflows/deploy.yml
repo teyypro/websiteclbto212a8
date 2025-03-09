@@ -28,7 +28,7 @@ jobs:
 
       - name: build
         env:
-          BASE_PATH: '/websiteclbnts'
+          BASE_PATH: '/websiteclbto212a8'
         run: |
           npm run build
 
