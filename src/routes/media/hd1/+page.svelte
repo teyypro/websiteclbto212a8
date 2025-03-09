@@ -60,8 +60,8 @@
     <p>🔑 Một phụ kiện không chỉ đẹp mà còn mang ý nghĩa yêu thương.</p>
     
     <div class="image-container">
-        <img src="images/media/hd1_1.jpg" alt="Móc khoá Khoá Xinh Ngày Xuân" class="product-image">
-        <img src="images/media/hd1_2.jpg" alt="Móc khoá Khoá Xinh Ngày Xuân" class="product-image">
+        <img src="/images/media/hd1_1.jpg" alt="Móc khoá Khoá Xinh Ngày Xuân" class="product-image">
+        <img src="/images/media/hd1_2.jpg" alt="Móc khoá Khoá Xinh Ngày Xuân" class="product-image">
     </div>
     
     <p class="highlight">🎯 Mục đích:</p>
