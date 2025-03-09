@@ -60,7 +60,7 @@
     <p class="highlight">📢 Nhân dịp kỷ niệm 42 năm Ngày Nhà giáo Việt Nam (20/11/1982 – 20/11/2024), THPT Nguyễn Trân tổ chức buổi lễ trang trọng để bày tỏ lòng biết ơn đến thầy cô – những người âm thầm dìu dắt bao thế hệ học trò.</p>
     
     <video controls>
-        <source src="../../images/media/video_media.mp4" type="video/mp4">
+        <source src="images/media/video_media.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
     

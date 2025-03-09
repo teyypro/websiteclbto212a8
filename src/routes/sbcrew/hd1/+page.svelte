@@ -60,7 +60,7 @@
     <p>🔥 Tham gia để có một nơi giải trí, sinh hoạt lành mạnh và gặp gỡ những người bạn thú vị.</p>
     
     <div class="image-container">
-        <img src="../../images/sbcrew/hd1.jpg" alt="S&B Crew hoạt động" class="event-image">
+        <img src="images/sbcrew/hd1.jpg" alt="S&B Crew hoạt động" class="event-image">
     </div>
     
     <p class="highlight">🎯 Lợi ích khi tham gia:</p>

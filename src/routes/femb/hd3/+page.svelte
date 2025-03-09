@@ -58,7 +58,7 @@
     <p>👉 Vậy thì FEMB - NTS Club chính là nơi dành cho bạn!</p>
     
     <!-- <div class="image-container">
-        <img src="../../images/sbcrew/recruitment.jpg" alt="Tuyển thành viên FEMB Club" class="event-image">
+        <img src="images/sbcrew/recruitment.jpg" alt="Tuyển thành viên FEMB Club" class="event-image">
     </div> -->
     
     <p class="highlight">🎯 Tại sao bạn nên tham gia?</p>

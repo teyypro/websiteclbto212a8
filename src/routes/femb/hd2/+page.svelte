@@ -56,7 +56,7 @@
     <p>👩‍👧 Nhân ngày 20/10, chúng con xin dành tặng những lời tri ân sâu sắc đến những người mẹ, những người phụ nữ ngày đêm cần mẫn vun đắp cho gia đình.</p>
     
     <!-- <div class="image-container">
-        <img src="../../images/sbcrew/womensday.jpg" alt="Chúc mừng ngày Phụ nữ Việt Nam" class="event-image">
+        <img src="images/sbcrew/womensday.jpg" alt="Chúc mừng ngày Phụ nữ Việt Nam" class="event-image">
     </div> -->
     
     <p class="highlight">🎵 Bài hát: "Bao lời con chưa nói"</p>
