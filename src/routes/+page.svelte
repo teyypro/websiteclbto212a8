@@ -136,7 +136,7 @@
         <header>
             <div id = "background_header" style={`background-image: url('${address}/images/ntscloub.jpg');`}></div>
             <div id = "overlay"></div>
-           <p>CÁC CÂU LẠC BỘ<br>TRƯỜNG THPT NGUYỄN TRÂN</p>
+           <p>CLB TRƯỜNG THPT NGUYỄN TRÂN<br>THỎA ĐAM MÊ, TIẾP SỨC HỌC TẬP</p>
         </header>
 
         <main>

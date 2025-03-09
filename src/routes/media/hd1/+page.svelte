@@ -5,7 +5,7 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        text-align: center;
+        text-align: left;
         max-width: 90%;
         margin: auto;
         padding: 20px;
