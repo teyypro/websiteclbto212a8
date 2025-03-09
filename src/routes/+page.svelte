@@ -183,11 +183,13 @@
     
     
 
-        <div class="footer">
-            📞 <b>Liên hệ:</b> 0123 456 789 | ✉ <b>Email:</b> clb@nguyentran.edu.vn<br>
-            🌍 <b>Website:</b> <a href="#">www.nguyentran.edu.vn/clb</a><br>
-            👨‍💻 <b>Creators:</b> Kiều Oanh, Tú Quyên, Vũ Luân, Kim Hân, Thiên Hương, Phi Quý, Công Huyền, Huỳnh Thi 12A4
-        </div>
+    <div class="footer">
+        📞 <b>Liên hệ:</b> 0123 456 789 | ✉ <b>Email:</b> clb@nguyentran.edu.vn<br>
+        🌍 <b>Website:</b> <a href="#">www.nguyentran.edu.vn/clb</a><br>
+        👨‍💻 <b>Creators:</b> <strong>Tổ 2 - 12A8</strong> <br><em>
+        Thảo Ngân, Bích Huệ, Minh Khải, Mai Phương, Mai Khoa, Kim Ngân, Ngọc Khánh, Thế Anh, Tấn Sỹ, Đức Thịnh.</em>
+    </div>
+    
     </main>
 
 
