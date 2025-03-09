@@ -75,7 +75,7 @@
 <nav>
   
     <a href={`${address}/`} id = 'logo'>
-        <img src = 'images/logo.png'>
+        <img src = '/websiteclbto212a8/images/logo.png'>
         <p>Trường THPT Nguyễn Trân</p>
     </a>
 
